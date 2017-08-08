@@ -1,0 +1,9 @@
+# ignore things
+
+a.out
+
+
+Java*.class
+
+ids.txt
+adressess.txt
